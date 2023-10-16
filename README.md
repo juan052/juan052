@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Huete
 ==================================================================================================================================
 
-Estudiante de ingeneria de sistema.
+System engineering student.
 -----------------------------------
 
-Soy un apasionado de la programación y la tecnología en general. Me encanta crear soluciones eficientes y efectivas para los desafíos que se presentan, y me siento cómodo trabajando con varios lenguajes de programación y tecnologías. En mi tiempo libre, disfruto aprendiendo sobre nuevas tecnologías y aplicaciones, y explorando nuevas formas de abordar problemas complejos. Siempre estoy buscando colaborar con otros programadores y aprender de ellos, y estoy emocionado de contribuir al mundo del código abierto a través de GitHub. ¡Gracias por visitar mi perfil!
+I am passionate about programming and technology in general. I love creating efficient and effective solutions to challenges, and I am comfortable working with various programming languages ​​and technologies. In my free time, I enjoy learning about new technologies and applications, and exploring new ways to address complex problems. I'm always looking to collaborate with and learn from other programmers, and I'm excited to contribute to the open source world through GitHub. Thank you for visiting my profile!
 
 * 🌍  I'm based in Managua,Nicaragua
 * ✉️  You can contact me at [jrios9836@gmail.con](mailto:jrios9836@gmail.con)
