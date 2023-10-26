@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 System engineering student.
 -----------------------------------
 
-I am passionate about programming and technology in general. I love creating efficient and effective solutions to challenges, and I am comfortable working with various programming languages ​​and technologies. In my free time, I enjoy learning about new technologies and applications, and exploring new ways to address complex problems. I'm always looking to collaborate with and learn from other programmers, and I'm excited to contribute to the open source world through GitHub. Thank you for visiting my profile!
+Im a tech enthusiast with a deep-rooted passion for programming and a knack for crafting efficient solutions to complex challenges. Proficient in a diverse range of programming languages and technologies, I thrive on exploring innovative ways to tackle intricate problems and stay updated with the latest tech advancements.  During my spare time, you'll find me immersed in the exciting realm of new technologies and applications, continuously expanding my skill set. I'm always eager to collaborate with fellow programmers, driven by a shared goal of mutual learning and growth. You can catch me contributing to the open-source community here on GitHub, where I'm dedicated to sharing my knowledge and expertise.
+
+Feel free to connect and explore the possibilities with me! Let's build the future together, one line of code at a time.
 
 * 🌍  I'm based in Managua,Nicaragua
 * ✉️  You can contact me at [jrios9836@gmail.con](mailto:jrios9836@gmail.con)
-* 🧠  I'm learning Aprendiendo Reactjs
+* 🧠  I am learning  Reactjs
 
 ### Skills
 
