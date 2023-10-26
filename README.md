@@ -10,7 +10,7 @@ Feel free to connect and explore the possibilities with me! Let's build the futu
 
 * 🌍  I'm based in Managua,Nicaragua
 * ✉️  You can contact me at [jrios9836@gmail.con](mailto:jrios9836@gmail.con)
-* 🧠  I am learning  React.js
+* 🧠  I'm learning   React.js
 
 ### Skills
 
